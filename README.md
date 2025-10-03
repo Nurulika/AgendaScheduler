@@ -1,2 +1,1 @@
-# AgendaScheduler
-Professional AgendaScheduler infrastructure with AgendaScheduler-optimized enterprise-grade and enterprise scalable-architecture capabilities
+.
